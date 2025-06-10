@@ -1,4 +1,4 @@
-# Web Application Firewall Home Lab using SafeLine WA
+# Web Application Firewall Home Lab using SafeLine WAF
 
 <a name="1-lab-context"></a>
 ##  1. Lab Context
